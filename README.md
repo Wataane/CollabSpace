@@ -6,6 +6,7 @@ This is the backend for the document collaboration platform I’m building. The 
 
 ## Current File Structure
 
+<pre>
 document-service
  ┣ src
  ┃ ┣ main
@@ -18,7 +19,7 @@ document-service
  ┃ ┃ ┣ application.properties     # DB config
  ┣ pom.xml
  ┣ README.md.
-
+</pre>
 ## Stack
 
 - Java 17+
