@@ -69,13 +69,9 @@ For now, REST APIs are being created to handle:
 These are available under `/api/documents`.
 
 ## To Do (Upcoming Work)
-
-- Add JWT-based authentication
-- Add Kafka for document events
-- Add GraphQL endpoint for analytics
-- Create frontend using React
-- Unit testing with JUnit and Mockito
-- Create collaboration engine with WebSockets
+- Create frontend 
+- Unit testing 
+- Create collaboration framework
 - Set up deployment using Docker and AWS
 
 ## Notes
